@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+psychai/__init__.py
+psychai.egg-info/PKG-INFO
+psychai.egg-info/SOURCES.txt
+psychai.egg-info/dependency_links.txt
+psychai.egg-info/top_level.txt

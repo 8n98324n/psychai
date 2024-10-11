@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: psychai
+Version: 0.1
+Summary: AI Toolbox for Psychological and Behavioral Research
+Home-page: https://https://github.com/8n98324n/psychai
+Author: Ivan Liu
+Author-email: ivanliu@bnu.edu.cn
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+License-File: LICENSE
